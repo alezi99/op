@@ -1,0 +1,153 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="CSS/Style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+      
+
+        <header>  
+            <h1>MSE <span class="logo"> ACADEMY </span></h1>
+            <nav>
+                <ul>
+                    <li><a href="#">home</a></li>
+                    <li><a href="#">home2</a></li>
+                    <li><a href="#">home3</a></li>
+                    <li><a href="#">Readme</a></li>
+                </ul>
+
+            </nav>
+        </header>
+
+        <div id="jum"> 
+            <h2>wolcoom to websit jum </h2>
+            <p>  
+                The EXIT forces the loop halts execution unconditionally and passes control to the next statement after the LOOP statement. You typically use the EXIT statement with the IF statement.
+            </p>
+<div class="h-b">
+   <a href="#" >Readme</a>
+<a href="#" >Connnct</a>
+</div>
+        </div>
+
+
+
+
+
+
+
+        <div id="fea"> 
+
+            <ul>
+                <li id="f-1">
+                    <h4> projekts </h4>
+                    <p>
+                        In this tutorial, you’ve learned how to use the PL/SQL LOOP together with EXIT and EXIT-WHEN statements to construct an iterative statement in PL/SQL to execute a sequence of statements repeatedly.
+                           </p>
+                </li>
+
+                <li id="f-2">
+
+                    <h4> B contans </h4>
+                    <p> 
+
+                        In this tutorial, you’ve learned how to use the PL/SQL LOOP together with EXIT and EXIT-WHEN statements to construct an iterative statement in PL/SQL to execute a sequence of statements repeatedly.
+
+                            </p>
+                </li>
+
+                <li id="f-3">
+
+                    <h4> C </h4>
+                    <p> 
+                        this tutorial, you’ve learned how to use the PL/SQL LOOP together with EXIT and EXIT-WHEN statements to construct an iterative statement in
+
+                              </p>
+                </li>
+
+            </ul>
+
+        </div>
+
+        <div id="con">
+            <article>
+
+                <h3> the PL/SQL on article</h3>
+
+                <p>
+                    Introduction to PL/SQL LOOP Statement
+
+                    PL/SQL LOOP statement is an iterative control statement that allows you to execute a sequence of statements repeatedly like WHILE and FOR loop.
+
+
+                </p>
+                <a herf="#"><img src="imags/ma1.jpg"></a>
+                <a herf="#">Read More</a>
+            </article>
+
+
+
+            <article>
+
+                <h3> the loop on pl/sql twe articel</h3>
+
+                <p>
+                    The simplest form of the LOOP statement consists of the LOOP keyword, a sequence of statements and the END LOOP keywords as shown below:
+                </p>
+                <a herf="#"><img src="imags/ma1.jpg"></a>
+                <a herf="#">Read More</a>
+            </article>
+
+
+
+
+            <article>
+                <h3> PL/SQL LOOP Statement thrr articl </h3>
+
+                <p>
+
+                    Examples of PL/SQL LOOP Statement
+
+                    Example of PL/SQL LOOP with EXIT Statement
+
+
+                </p>
+                <a herf="#" ><img src="imags/ma1.jpg"></a>
+                <a herf="#">Read More</a>
+            </article>
+
+
+            <div/>
+
+            <footer>
+                <div id="first-footer">
+                    <h4>ES Acadimi</h4>
+                    <ul>
+
+
+                        <li><a href="#">abut</a></li>
+                        <li><a href="#">team</a></li>
+                        <li><a href="#">projegt</a></li>
+                        <li><a href="#">Readme</a></li>
+
+                    </ul>
+
+                    <h4>ES Acadimi</h4>
+                    <ul>
+
+
+                        <li><a href="#">abut</a></li>
+                        <li><a href="#">team</a></li>
+                        <li><a href="#">projegt</a></li>
+                        <li><a href="#">Readme</a></li>
+                    </ul>
+
+                </div>
+
+                <div id="second-footer">
+                    <p>copy the by motahar 2020</p>
+                </div>
+                </body>
+                </html>
